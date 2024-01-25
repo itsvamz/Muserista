@@ -10,7 +10,7 @@
     min-height: 100vh;
     z-index: 0;
     background: #69275c;
-    background-image: url(/purple.png);
+    background-image: url(purple.png);
     padding: 30px;
     justify-content: center;
     display: grid;
