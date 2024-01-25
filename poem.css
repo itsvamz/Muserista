@@ -76,7 +76,7 @@ body {
   width: 100%;
   height: 275px;
   position: relative;
-  background-image: url(/X/4.png);
+  background-image: url(4.png);
   
   border-top-right-radius: 5px;
   border-top-left-radius: 5px;
@@ -144,11 +144,11 @@ body {
 
 /* Set different background images for specific cards */
 .card:nth-of-type(2) .card-image {
-  background-image: url(/X/2.png);
+  background-image: url(2.png);
 }
 .card:nth-of-type(3) .card-image {
-  background-image: url(/X/1.png);
+  background-image: url(1.png);
 }
 .card:nth-of-type(4) .card-image {
-  background-image: url(/X/3.png);
+  background-image: url(3.png);
 }
